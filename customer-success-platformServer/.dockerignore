@@ -1,0 +1,9 @@
+.dockerignore
+.vs
+.vscode
+*/bin
+**/Tests
+*/obj
+**/obj
+**/bin
+**/.toolstarget
